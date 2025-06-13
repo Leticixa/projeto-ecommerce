@@ -1,0 +1,101 @@
+cliente_id,nome,email,cidade,estado
+1,Ana Sophia Araújo,levicunha@ig.com.br,Viana,AP
+2,Lara Azevedo,da-rosalucas-gabriel@da.br,Porto,RJ
+3,Alexandre da Cruz,matheus23@yahoo.com.br,Carvalho,MG
+4,João Gabriel Monteiro,ramosesther@gmail.com,Cardoso da Prata,MA
+5,Mariane Moreira,barbosamaria-alice@goncalves.com,Freitas dos Dourados,RS
+6,Sr. João Lucas Moraes,mariana19@teixeira.br,Fogaça da Prata,ES
+7,Giovanna Caldeira,lopesalana@campos.net,da Rosa do Amparo,MG
+8,Laís da Conceição,luiz-felipeteixeira@yahoo.com.br,Nunes da Praia,ES
+9,Luiz Gustavo Sales,correiahenrique@pereira.br,Souza de Fernandes,PI
+10,Rodrigo Correia,enzo-gabriel46@hotmail.com,Almeida de Ferreira,PE
+11,Luiz Fernando Cavalcanti,henriquemoura@hotmail.com,Martins,PR
+12,Carlos Eduardo Moreira,carlos-eduardoduarte@bol.com.br,Cardoso,SC
+13,Ana Clara Teixeira,marcelaribeiro@ferreira.br,Viana,SP
+14,Dra. Catarina Lima,ana-laura87@gmail.com,das Neves,AP
+15,Sr. Nicolas Vieira,andrecardoso@dias.com,Cardoso do Galho,ES
+16,Raul Rodrigues,mirellaribeiro@ribeiro.com,Pinto,MS
+17,Júlia Rezende,caldeiraalexia@cavalcanti.net,da Mota,PI
+18,Beatriz Pereira,beatriz31@vieira.com,Viana,TO
+19,Bryan Duarte,erodrigues@nunes.br,Nogueira,GO
+20,Esther Pereira,joao-miguelgoncalves@hotmail.com,Viana,AL
+21,Sra. Ana Carolina Barros,carlos-eduardosilva@gmail.com,Campos,RN
+22,Renan Duarte,fariasisadora@bol.com.br,Cardoso,PA
+23,Maria Luiza Silveira,juan53@yahoo.com.br,Costela da Mata,PB
+24,Sr. André Ramos,teixeirakevin@costela.br,Farias,MS
+25,Davi Lucca Pires,vieiranoah@ig.com.br,Cunha,GO
+26,Calebe Vieira,miguel93@da.org,Fernandes de Barros,AP
+27,Lara Freitas,melosophia@ferreira.br,Alves do Campo,AP
+28,Srta. Maria Cecília Azevedo,ana-juliacostela@gmail.com,Moreira do Norte,MS
+29,Rodrigo Farias,stella86@duarte.br,da Luz,SC
+30,Dr. Raul Farias,valentinacavalcanti@uol.com.br,Ribeiro,ES
+31,Lorenzo Monteiro,leviaraujo@ig.com.br,Nunes,MT
+32,Bernardo Freitas,vteixeira@gmail.com,Ferreira,CE
+33,Emanuella Azevedo,umonteiro@pinto.com,da Mota Paulista,AL
+34,Sra. Agatha Silveira,ana-julia15@costa.org,Oliveira Alegre,MG
+35,Sra. Maria Clara Costela,rnascimento@jesus.com,Gomes do Oeste,PA
+36,Maria Martins,rpires@hotmail.com,da Cunha de Cardoso,MA
+37,Mirella Melo,maria-eduardalima@da.com,Ribeiro,RN
+38,Lorenzo Peixoto,zsales@da.br,da Luz,SE
+39,Dra. Letícia Barros,ramosgabriel@souza.br,Santos de Pereira,TO
+40,Lavínia da Cruz,wferreira@hotmail.com,Silveira do Amparo,RS
+41,Guilherme Pires,lucas45@viana.com,da Costa,ES
+42,Olivia da Costa,peixotoalice@viana.br,Caldeira do Oeste,TO
+43,Joana Aragão,walmeida@yahoo.com.br,Peixoto da Prata,SC
+44,Dra. Yasmin das Neves,marcelopinto@uol.com.br,Nogueira,MT
+45,Nicole Nunes,ncostela@novaes.com,Pereira,BA
+46,Carolina Barros,nmartins@uol.com.br,Mendes das Flores,GO
+47,Eloah Cardoso,vianacalebe@yahoo.com.br,Campos,SP
+48,Amanda Araújo,augustoda-costa@costela.com,Rezende,RR
+49,Vitor Moura,da-cruzpedro-henrique@araujo.br,da Paz de Minas,RJ
+50,Dra. Elisa Cavalcanti,barbosaryan@bol.com.br,Moura de Minas,PE
+51,Heloísa Alves,bcavalcanti@yahoo.com.br,da Costa de Pinto,CE
+52,Dra. Milena Fogaça,upinto@bol.com.br,Martins de Goiás,TO
+53,Guilherme Porto,vnascimento@sales.com,da Rosa de Moraes,SE
+54,Joaquim Freitas,silveirajoao-miguel@gmail.com,Oliveira,PR
+55,Sophie Duarte,yporto@gmail.com,Gonçalves,ES
+56,Olivia Farias,bruna88@yahoo.com.br,Vieira Alegre,MS
+57,Sra. Emanuelly Lima,erickda-mota@yahoo.com.br,Teixeira,SP
+58,Srta. Caroline da Rosa,mirella98@bol.com.br,Castro do Oeste,MA
+59,João Guilherme da Luz,teixeirafernando@yahoo.com.br,Barros,PI
+60,Samuel Costela,alvesisabella@yahoo.com.br,Rocha de Pires,MT
+61,Benjamin Fernandes,camposalana@uol.com.br,Barros,BA
+62,Miguel Jesus,erickpeixoto@silveira.br,Pereira da Mata,RJ
+63,Ana Carolina Castro,luiz-miguelcardoso@duarte.com,Almeida,PA
+64,Olivia Ribeiro,diasmurilo@ig.com.br,Ramos de Minas,RO
+65,Francisco da Paz,vianalevi@ig.com.br,Fogaça,TO
+66,Breno Caldeira,juliana94@costa.br,Nunes Paulista,PE
+67,Luna Pires,pintonina@fernandes.com,Dias,RO
+68,Maria Sophia Aragão,da-luzbrenda@bol.com.br,Freitas de da Mata,RJ
+69,Maysa Rodrigues,amonteiro@martins.com,Melo,PA
+70,Sra. Esther Nunes,ucarvalho@martins.com,Silva do Sul,RO
+71,Letícia Oliveira,elisamoreira@pires.com,Fogaça,PI
+72,Gustavo Henrique Pires,araujolorena@bol.com.br,da Cruz,MA
+73,Alana Vieira,das-nevesenzo@uol.com.br,da Costa,PR
+74,Sra. Maitê Fogaça,pribeiro@uol.com.br,Nogueira,DF
+75,Maitê Cunha,sophia65@almeida.org,Rodrigues Grande,PB
+76,Luana Monteiro,uramos@hotmail.com,Nogueira,ES
+77,Amanda Lopes,qnogueira@ig.com.br,Sales,AL
+78,Luiz Fernando Melo,hcastro@alves.com,da Costa de Minas,PR
+79,Joaquim Novaes,maria-eduarda86@rodrigues.com,Duarte,RS
+80,Esther Dias,wcastro@pires.org,Barbosa,MT
+81,Gustavo Moraes,pda-conceicao@bol.com.br,da Mata da Serra,CE
+82,Paulo Nascimento,oda-conceicao@fernandes.br,Alves dos Dourados,MA
+83,Maria Cecília da Cruz,lmonteiro@pereira.org,Jesus de da Paz,MG
+84,Ana Lívia Duarte,isabelly44@gmail.com,Freitas do Sul,RJ
+85,Stephany Barros,sophie39@yahoo.com.br,da Mota,RN
+86,Renan Cunha,limavalentina@azevedo.br,Carvalho,MA
+87,Dr. Davi da Paz,emanuelly84@fernandes.br,Rezende,AP
+88,Vitor Gabriel das Neves,diego60@yahoo.com.br,Ramos,MS
+89,Sofia Ferreira,enrico37@gmail.com,das Neves de Minas,RS
+90,Pietra Jesus,cunhabryan@gmail.com,Sales do Campo,AM
+91,Luiz Otávio Cunha,qmoura@ig.com.br,da Costa das Pedras,RS
+92,Luigi Oliveira,mouraleandro@uol.com.br,Duarte de Moreira,AM
+93,Isadora Viana,novaesmarcos-vinicius@hotmail.com,Ramos,AP
+94,Clara Aragão,luigi29@campos.net,Melo,SP
+95,Yuri Almeida,franciscoviana@yahoo.com.br,Correia,RO
+96,Cauê Alves,joanamartins@gmail.com,Ferreira,AL
+97,Vicente Peixoto,ribeiroana-livia@silva.com,Santos de das Neves,RN
+98,Thomas Silveira,daraujo@uol.com.br,Pereira do Campo,PR
+99,Sra. Ana Julia Cardoso,cauecostela@yahoo.com.br,Nascimento do Galho,MA
+100,Lívia Pinto,vieiramilena@pinto.br,Ramos das Flores,PA

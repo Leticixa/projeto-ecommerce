@@ -1,0 +1,21 @@
+produto_id,nome,categoria,preco
+1,Produto 1,Eletrônicos,22.26
+2,Produto 2,Livros,130.0
+3,Produto 3,Roupas,370.87
+4,Produto 4,Brinquedos,52.6
+5,Produto 5,Alimentos,25.57
+6,Produto 6,Eletrônicos,117.13
+7,Produto 7,Brinquedos,304.99
+8,Produto 8,Brinquedos,107.43
+9,Produto 9,Brinquedos,215.56
+10,Produto 10,Alimentos,298.74
+11,Produto 11,Eletrônicos,381.82
+12,Produto 12,Roupas,352.09
+13,Produto 13,Livros,146.16
+14,Produto 14,Roupas,479.03
+15,Produto 15,Livros,60.08
+16,Produto 16,Alimentos,57.39
+17,Produto 17,Livros,305.83
+18,Produto 18,Eletrônicos,367.57
+19,Produto 19,Brinquedos,71.16
+20,Produto 20,Alimentos,48.61
